@@ -1,0 +1,4 @@
+C:\Users\SV\Desktop\abc\WindowsFormsApplication1\SV\bin\Debug\SV.exe
+C:\Users\SV\Desktop\abc\WindowsFormsApplication1\SV\bin\Debug\SV.pdb
+C:\Users\SV\Desktop\abc\WindowsFormsApplication1\SV\obj\x86\Debug\SV.exe
+C:\Users\SV\Desktop\abc\WindowsFormsApplication1\SV\obj\x86\Debug\SV.pdb
